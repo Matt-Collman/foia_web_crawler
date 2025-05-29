@@ -1,0 +1,19 @@
+C:\Users\scoll\OneDrive\Documents\FOIA\foia_crawler\crawler_directory.txt
+C:\Users\scoll\OneDrive\Documents\FOIA\foia_crawler\foia_crawler
+C:\Users\scoll\OneDrive\Documents\FOIA\foia_crawler\scrapy.cfg
+C:\Users\scoll\OneDrive\Documents\FOIA\foia_crawler\foia_crawler\items.py
+C:\Users\scoll\OneDrive\Documents\FOIA\foia_crawler\foia_crawler\middlewares.py
+C:\Users\scoll\OneDrive\Documents\FOIA\foia_crawler\foia_crawler\pipelines.py
+C:\Users\scoll\OneDrive\Documents\FOIA\foia_crawler\foia_crawler\settings.py
+C:\Users\scoll\OneDrive\Documents\FOIA\foia_crawler\foia_crawler\spiders
+C:\Users\scoll\OneDrive\Documents\FOIA\foia_crawler\foia_crawler\__init__.py
+C:\Users\scoll\OneDrive\Documents\FOIA\foia_crawler\foia_crawler\__pycache__
+C:\Users\scoll\OneDrive\Documents\FOIA\foia_crawler\foia_crawler\spiders\foia_spider.py
+C:\Users\scoll\OneDrive\Documents\FOIA\foia_crawler\foia_crawler\spiders\__init__.py
+C:\Users\scoll\OneDrive\Documents\FOIA\foia_crawler\foia_crawler\spiders\__pycache__
+C:\Users\scoll\OneDrive\Documents\FOIA\foia_crawler\foia_crawler\spiders\__pycache__\foia_spider.cpython-311.pyc
+C:\Users\scoll\OneDrive\Documents\FOIA\foia_crawler\foia_crawler\spiders\__pycache__\foia_spiders.cpython-311.pyc
+C:\Users\scoll\OneDrive\Documents\FOIA\foia_crawler\foia_crawler\spiders\__pycache__\spider bob.cpython-311.pyc
+C:\Users\scoll\OneDrive\Documents\FOIA\foia_crawler\foia_crawler\spiders\__pycache__\__init__.cpython-311.pyc
+C:\Users\scoll\OneDrive\Documents\FOIA\foia_crawler\foia_crawler\__pycache__\settings.cpython-311.pyc
+C:\Users\scoll\OneDrive\Documents\FOIA\foia_crawler\foia_crawler\__pycache__\__init__.cpython-311.pyc
